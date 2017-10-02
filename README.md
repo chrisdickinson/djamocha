@@ -1,6 +1,6 @@
 # Djamocha
 
-Integrating [Django](http://djangoproject.com/) and [Mocha](http://visionmedia.github.com/mocha/) for
+Integrating [Django](http://djangoproject.com/) and [Mocha](https://mochajs.org/) for
 great good.
 
 ## But how?
